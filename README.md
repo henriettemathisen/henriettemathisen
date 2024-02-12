@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henriette, I'm a Software Developer from 🇳🇴.</h1>
 <h3 align="center">I work in the Customer Intelligence Tribe, for the Dealer Commission Team.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriettemathisen&label=Profile%20views&color=0e75b6&style=flat" alt="henriettemathisen" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henriettemathisen" alt="henriettemathisen" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Spring, Spring REST API, API Development.**
