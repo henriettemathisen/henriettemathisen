@@ -1,2 +1,4 @@
-<h1>Hi 👋! My name is Henriette, and I am a Software Developer from 🇳🇴!</h1>
-I work in Customer Intelligence Tribe, for the Dealer Commission Team.
+<h1>Hi, there 👋!</h1>
+<h3> 👩🏼‍💻 About Me 👩🏼‍💻</h3>
+- 📍 &nbsp; Norwegian 🇳🇴
+- 
