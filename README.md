@@ -5,5 +5,5 @@
 📱 Hardware Concepts Team
 
 <h3>Contact me:</h3>
-💬 Slack: Henriette Mathisen (@Henriette) <br>
+💬 Slack: Henriette Mathisen (@Jetta) <br>
 📧 Email: henriette.mathisen@telenor.no
